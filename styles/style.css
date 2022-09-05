@@ -79,13 +79,15 @@ button svg:nth-of-type(2) {
 }
 
 img {
+  scale: 100%;
   width:10em;
   border-radius:10em;
   border:5px solid #fff;
-  box-shadow:0 0 2px 2px rgba(0,0,0,.2);
+  box-shadow:0 5px 5px rgba(0,0,0,.2);
   position:relative;
   top:2rem;
   transition:.25s .15s;
+  
 }
 
 dl {
