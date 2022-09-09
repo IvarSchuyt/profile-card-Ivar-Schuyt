@@ -1,2 +1,2 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
+Visitekaartje Ivar Schuyt.
+Ik heb een simpel visitekaartje gemaakt door het voorbeeld aan te passen. Foto in het midden werkt als spotify-scancode en klikbare link.
